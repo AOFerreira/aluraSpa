@@ -47,10 +47,9 @@
         border: 2px $cor-primaria;
         border-radius: 40px;
         &:hover {
-            background-color: $cor-secundaria;
             color: $cor-primaria;
+            background-color: $cor-secundaria;
             border-color: $cor-terciaria;
-
         }
     }
 }
