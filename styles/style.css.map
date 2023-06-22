@@ -13,6 +13,8 @@
         "abstract/_variaveis.scss",
         "componets/_cupom.scss",
         "abstract/_variaveis.scss",
+        "componets/_fim.scss",
+        "abstract/_variaveis.scss",
         "componets/_footer.sass"
     ],
     "names": [],
